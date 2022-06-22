@@ -13,4 +13,5 @@
 12-file type prints the type of file called iamfile in the /tmp folder
 13-symbolic link creats a symbolinc to /bin/ls
 14-copy html copies all html files from current working directory to parent pf working directory but only copies file that doesn't exist and were newer than the version in the parrent of the working directory
+100-lets move moves all files begining with upper case letter to /tmp/u
 
