@@ -1,1 +1,2 @@
-The script shows the complete path of current working directory
+0-current working directory is a script that prints the absolute path name of the current working directory.
+1-listit is a script that display the contents list of your current directory.
