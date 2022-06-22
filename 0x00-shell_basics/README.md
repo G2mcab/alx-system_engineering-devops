@@ -10,3 +10,5 @@
 9-firstdirdeletion removes /tmp/myfirstdirectory
 10-back changes the working directory back to the previous one
 11-lists lists all file even beginning with . in current directory and parent of working directory and boot directory in long format
+12-file type prints the type of file called iamfile in the /tmp folder
+
