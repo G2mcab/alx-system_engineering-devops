@@ -3,5 +3,6 @@
 2-groups prints groups in the computer
 3-new owner changes the file owner
 4-empty creats empty file
+5-execute adds execute permission to file
 
 
