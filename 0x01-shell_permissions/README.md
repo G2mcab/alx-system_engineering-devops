@@ -14,6 +14,8 @@ Other users: all the permissions
 
 9-John_Doe sets the mode of hello to -rwxr-x-wx
 
+10-mirror_permissions sets the mode of hello the same as olleh's mode
+
 12-directory permission create directory my dir and give permission 755 at the same time
 
 13-change group changes the group of the file
