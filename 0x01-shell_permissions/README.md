@@ -2,5 +2,6 @@
 1-who am i prints username
 2-groups prints groups in the computer
 3-new owner changes the file owner
+4-empty creats empty file
 
 
