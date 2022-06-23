@@ -12,7 +12,7 @@ Owner: no permission at all
 Group: no permission at all
 Other users: all the permissions
 
-
+12-directory permission create directory my dir and give permission 755 at the same time
 
 13-change group changes the group of the file
 
