@@ -5,7 +5,7 @@
 4-empty creats empty file
 5-execute adds execute permission to file to the owner
 
-7-everybody grants full access to the file to everyone
+7-everybody grants execute access of the file to everyone
 
 
 
