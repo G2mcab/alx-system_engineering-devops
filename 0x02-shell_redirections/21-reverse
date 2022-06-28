@@ -1,2 +1,2 @@
 #!/bin/bash
-read varname && echo $varname | rev 
+read varname | echo $varname
