@@ -11,6 +11,7 @@
 
 10-no_more_js deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 
+15-countthatword Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 16-whatsnext Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 18-letteronly Display all lines of the file /etc/ssh/sshd_config starting with a letter. include capital letters as well
 
